@@ -5,7 +5,7 @@ Bu repo Kodluyoruz Front-End Eğitimnde oluşturduğumuz ilk repo. İçerisinde 
 # Installation
 
 Öncelikle projeyi clonelayın.
-"https://github.com/eRdiAgri/kodluyoruzilkrepo"
+https://github.com/eRdiAgri/kodluyoruzilkrepo
 
 # Usage
 
@@ -13,8 +13,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için;
 
-"cd kodluyoruzilkrepo"
-"code ."
+cd kodluyoruzilkrepo
+code .
 
 # Contributing
 
