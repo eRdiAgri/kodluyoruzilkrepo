@@ -18,6 +18,8 @@ cd kodluyoruzilkrepo/html
 
 code ./html
 
+<clipboard-copy value="src/index.js">Copy</clipboard-copy>
+
 # Contributing
 
 Pull requestler kabul edilir. Büyük değişikliler için, lütfen önce değiştirmek istediğinizi tartışmak için bir konu açınız.
