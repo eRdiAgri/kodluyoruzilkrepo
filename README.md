@@ -14,11 +14,9 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için;
 
-cd kodluyoruzilkrepo/html
+<clipboard-copy value="src/index.js">cd kodluyoruzilkrepo</clipboard-copy>
 
-code ./html
-
-<clipboard-copy value="src/index.js">Copy</clipboard-copy>
+<clipboard-copy value="src/index.js">code .</clipboard-copy>
 
 # Contributing
 
