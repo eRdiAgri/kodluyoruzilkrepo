@@ -6,7 +6,7 @@ Bu repo Kodluyoruz Front-End Eğitimnde oluşturduğumuz ilk repo. İçerisinde 
 
 Öncelikle projeyi clonelayın.
 
-https://github.com/eRdiAgri/kodluyoruzilkrepo
+(https://github.com/eRdiAgri/kodluyoruzilkrepo)
 
 # Usage
 
