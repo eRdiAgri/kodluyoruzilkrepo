@@ -6,7 +6,9 @@ Bu repo Kodluyoruz Front-End Eğitimnde oluşturduğumuz ilk repo. İçerisinde 
 
 Öncelikle projeyi clonelayın.
 
-https://github.com/eRdiAgri/kodluyoruzilkrepo/html
+```bash
+git clone https://github.com/eRdiAgri/kodluyoruzilkrepo/html
+```
 
 # Usage
 
@@ -14,9 +16,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için;
 
-<clipboard-copy value="src/index.js">cd kodluyoruzilkrepo</clipboard-copy>
-
-<clipboard-copy value="src/index.js">code .</clipboard-copy>
+```cd kodluyoruzilkrepo
+code .```
 
 # Contributing
 
@@ -24,5 +25,5 @@ Pull requestler kabul edilir. Büyük değişikliler için, lütfen önce deği�
 
 # License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
 
