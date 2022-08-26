@@ -1,5 +1,7 @@
 # Kodluyoruz Ilk Repo
 
+https://app.patika.dev/erdiagri
+
 Bu repo Kodluyoruz Front-End Eğitimnde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
